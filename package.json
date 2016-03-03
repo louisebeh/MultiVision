@@ -10,14 +10,16 @@
     "jade": "^1.11.0",
     "mongoose": "^4.4.5",
     "morgan": "^1.7.0",
+    "passport": "^0.3.2",
+    "passport-local": "^1.0.0",
     "stylus": "^0.53.0"
   },
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "engines":{
-    "node":"0.12.x",
+  "engines": {
+    "node": "0.12.x",
     "npm": "2.7.x"
   },
   "author": "Louise Beh",
