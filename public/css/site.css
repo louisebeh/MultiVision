@@ -18,11 +18,15 @@ footer p {
   border-top: 1px solid #d7e0e2;
 }
 .navbar-form .form-group {
-  margin-top: 10px;
   margin-left: 10px;
 }
 .navbar-form button {
-  margin-top: 10px;
+  margin-left: 10px;
+}
+.top-padding-med {
+  padding-top: 10px;
+}
+.margin-left-med {
   margin-left: 10px;
 }
 .toast-top-right {
